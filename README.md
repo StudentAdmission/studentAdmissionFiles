@@ -1,3 +1,0 @@
-# studentAdmissionFiles
-新生入学管理系统文档
-Supreme小组新生入学管理系统的文档资料
